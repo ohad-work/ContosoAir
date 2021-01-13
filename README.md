@@ -1,5 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
+[![Build Status](https://dev.azure.com/ohadse0211/ContosoAir/_apis/build/status/ohad-work.ContosoAir?branchName=master)](https://dev.azure.com/ohadse0211/ContosoAir/_build/latest?definitionId=12&branchName=master)
 
 # Microsoft.Github CI Demo
 
