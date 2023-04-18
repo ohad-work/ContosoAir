@@ -1,5 +1,5 @@
 pool:
-  vmImage: 'ubuntu 20.4'
+  vmImage: 'Ubuntu 20.04'
 trigger:
   - master
 steps:
