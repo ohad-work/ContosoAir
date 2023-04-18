@@ -1,6 +1,6 @@
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
-[![Build Status](https://dev.azure.com/cldze-deploy/ContosoAir/_apis/build/status/ohad-work.ContosoAir%20(1)?branchName=master)](https://dev.azure.com/cldze-deploy/ContosoAir/_build/latest?definitionId=13&branchName=master)
+[![Build Status](https://dev.azure.com/cldze-deploy/ContosoAir/_apis/build/status%2Fohad-work.ContosoAir?branchName=master)](https://dev.azure.com/cldze-deploy/ContosoAir/_build/latest?definitionId=18&branchName=master)
 
 # Microsoft.Github CI Demo
 
